@@ -1,6 +1,6 @@
 # Livro de Receitas 
 
-Ola vamos para mais ssa etapa, cola comigo.
+Ola vamos para mais essa etapa, cola comigo.
 ### Quero ser um DevOps e aprender novas skills.
 - Strogonoff de Frango
 - Pavê
