@@ -3,5 +3,6 @@
 Ola vamos para mais essa etapa, cola comigo
 
 - Strogonoff de Frango
-- Pave
-
+<<<<<<< HEAD
+- Pavê
+- Bolo de cenoura
